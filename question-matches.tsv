@@ -1,501 +1,501 @@
-question_id	question_rank	document_title	paragraph_index	distance
-1		Buddhism	31	
-1		MP3	11	
-1		University_of_Kansas	15	
-1		Black_people	11	
-1		American_Idol	26	
-4		Materialism	6	
-4		Estonian_language	24	
-4		Near_East	18	
-4		Daylight_saving_time	13	
-4		University_of_Kansas	15	
-7		University_of_Kansas	15	
-7		Near_East	18	
-7		Daylight_saving_time	13	
-7		Marshall_Islands	42	
-7		Hunter-gatherer	10	
-10		BBC_Television	30	
-10		Near_East	18	
-10		Wood	46	
-10		The_Times	35	
-10		Architecture	8	
-13		Estonian_language	24	
-13		Wood	46	
-13		Daylight_saving_time	13	
-13		Aspirated_consonant	17	
-13		Materialism	6	
-16		Materialism	6	
-16		University_of_Kansas	15	
-16		Szlachta	3	
-16		Aspirated_consonant	31	
-16		Hunter-gatherer	10	
-19		BBC_Television	30	
-19		University_of_Kansas	15	
-19		Wood	46	
-19		MP3	11	
-19		Alexander_Graham_Bell	0	
-22		Brain	13	
-22		BBC_Television	30	
-22		Estonian_language	24	
-22		Wood	46	
-22		Architecture	8	
-25		BBC_Television	30	
-25		University_of_Kansas	15	
-25		Estonian_language	24	
-25		MP3	11	
-25		2008_Summer_Olympics_torch_relay	73	
-28		University_of_Kansas	15	
-28		Materialism	6	
-28		MP3	11	
-28		Wayback_Machine	9	
-28		2008_Summer_Olympics_torch_relay	73	
-31		MP3	11	
-31		University_of_Kansas	15	
-31		2008_Summer_Olympics_torch_relay	73	
-31		Black_people	11	
-31		Near_East	18	
-34		Materialism	6	
-34		National_Archives_and_Records_Administration	27	
-34		Estonian_language	24	
-34		Bird_migration	38	
-34		New_York_City	134	
-37		MP3	11	
-37		University_of_Kansas	15	
-37		Black_people	11	
-37		Alexander_Graham_Bell	0	
-37		BBC_Television	30	
-40		Wood	46	
-40		University_of_Kansas	15	
-40		Materialism	6	
-40		BBC_Television	30	
-40		Near_East	18	
-43		University_of_Kansas	15	
-43		Near_East	18	
-43		Materialism	6	
-43		Architecture	8	
-43		The_Times	35	
-46		MP3	11	
-46		University_of_Kansas	15	
-46		Buddhism	31	
-46		Black_people	11	
-46		Classical_music	56	
-49		Near_East	18	
-49		University_of_Kansas	15	
-49		Materialism	6	
-49		2008_Sichuan_earthquake	35	
-49		Daylight_saving_time	13	
-52		Hunter-gatherer	2	
-52		Materialism	6	
-52		BeiDou_Navigation_Satellite_System	17	
-52		Aspirated_consonant	5	
-52		Immunology	8	
-55		MP3	11	
-55		University_of_Kansas	15	
-55		Classical_music	56	
-55		2008_Summer_Olympics_torch_relay	73	
-55		Black_people	11	
-58		BBC_Television	30	
-58		Materialism	6	
-58		Wood	46	
-58		Estonian_language	24	
-58		University_of_Kansas	15	
-61		University_of_Kansas	15	
-61		BBC_Television	30	
-61		2008_Summer_Olympics_torch_relay	73	
-61		Materialism	6	
-61		Sony_Music_Entertainment	22	
-64		Alexander_Graham_Bell	0	
-64		University_of_Kansas	15	
-64		MP3	11	
-64		Russian_Soviet_Federative_Socialist_Republic	20	
-64		BBC_Television	30	
-67		University_of_Kansas	15	
-67		Aspirated_consonant	5	
-67		MP3	11	
-67		Materialism	6	
-67		2008_Summer_Olympics_torch_relay	73	
-70		Daylight_saving_time	13	
-70		Estonian_language	24	
-70		University_of_Kansas	15	
-70		MP3	11	
-70		2008_Summer_Olympics_torch_relay	73	
-73		University_of_Kansas	15	
-73		MP3	11	
-73		BBC_Television	30	
-73		2008_Summer_Olympics_torch_relay	73	
-73		Materialism	6	
-76		Materialism	6	
-76		Aspirated_consonant	31	
-76		Estonian_language	24	
-76		Buddhism	31	
-76		BBC_Television	30	
-79		List_of_numbered_streets_in_Manhattan	29	
-79		Buddhism	31	
-79		University_of_Kansas	15	
-79		MP3	11	
-79		Estonian_language	24	
-82		Canadian_Armed_Forces	41	
-82		Near_East	18	
-82		Architecture	8	
-82		Hunter-gatherer	2	
-82		Wood	46	
-85		Architecture	8	
-85		BBC_Television	30	
-85		Dog	69	
-85		Hunter-gatherer	2	
-85		Near_East	18	
-88		Near_East	18	
-88		Materialism	6	
-88		Somalis	46	
-88		University_of_Kansas	15	
-88		Architecture	8	
-91		Near_East	18	
-91		University_of_Kansas	15	
-91		Daylight_saving_time	13	
-91		Wood	46	
-91		Alexander_Graham_Bell	0	
-94		Estonian_language	24	
-94		University_of_Kansas	15	
-94		Materialism	6	
-94		Near_East	18	
-94		Bern	10	
-97		Wood	46	
-97		University_of_Kansas	15	
-97		2008_Summer_Olympics_torch_relay	73	
-97		Estonian_language	24	
-97		Materialism	6	
-100		University_of_Kansas	15	
-100		MP3	11	
-100		2008_Summer_Olympics_torch_relay	73	
-100		Materialism	6	
-100		Alexander_Graham_Bell	0	
-103		Classical_music	56	
-103		Buddhism	31	
-103		Aspirated_consonant	31	
-103		National_Archives_and_Records_Administration	27	
-103		University_of_Kansas	15	
-106		Materialism	6	
-106		Phonology	13	
-106		Immunology	8	
-106		Wood	46	
-106		Architecture	8	
-109		Wood	46	
-109		University_of_Kansas	15	
-109		Near_East	18	
-109		2008_Summer_Olympics_torch_relay	73	
-109		Daylight_saving_time	13	
-112		Wood	46	
-112		Estonian_language	24	
-112		Space_Race	60	
-112		Immunology	8	
-112		Materialism	6	
-115		University_of_Kansas	15	
-115		Classical_music	56	
-115		National_Archives_and_Records_Administration	27	
-115		Hunter-gatherer	10	
-115		Aspirated_consonant	5	
-118		Brain	13	
-118		BBC_Television	30	
-118		Estonian_language	24	
-118		Aspirated_consonant	17	
-118		Architecture	8	
-121		University_of_Kansas	15	
-121		Wood	46	
-121		Brain	13	
-121		Daylight_saving_time	13	
-121		BBC_Television	30	
-124		Estonian_language	24	
-124		Aspirated_consonant	17	
-124		University_of_Kansas	15	
-124		Wood	46	
-124		Szlachta	3	
-127		BBC_Television	30	
-127		The_Times	35	
-127		2008_Sichuan_earthquake	35	
-127		University_of_Kansas	15	
-127		Estonian_language	24	
-130		Materialism	6	
-130		BBC_Television	30	
-130		University_of_Kansas	15	
-130		Wood	46	
-130		2008_Sichuan_earthquake	35	
-133		University_of_Kansas	15	
-133		MP3	11	
-133		Alexander_Graham_Bell	0	
-133		Hunter-gatherer	10	
-133		Royal_Institute_of_British_Architects	14	
-136		Architecture	8	
-136		Near_East	18	
-136		Hunter-gatherer	2	
-136		Materialism	6	
-136		Wood	46	
-139		University_of_Kansas	15	
-139		MP3	11	
-139		Materialism	6	
-139		Alexander_Graham_Bell	0	
-139		2008_Summer_Olympics_torch_relay	73	
-142		Dog	69	
-142		Daylight_saving_time	13	
-142		Saint_Helena	78	
-142		Institute_of_technology	34	
-142		Hunter-gatherer	2	
-145		2008_Sichuan_earthquake	35	
-145		Near_East	18	
-145		BBC_Television	30	
-145		Wood	46	
-145		Alexander_Graham_Bell	0	
-148		MP3	11	
-148		University_of_Kansas	15	
-148		Black_people	11	
-148		2008_Summer_Olympics_torch_relay	73	
-148		Near_East	18	
-151		MP3	11	
-151		Alexander_Graham_Bell	0	
-151		Near_East	18	
-151		BBC_Television	30	
-151		University_of_Kansas	15	
-154		Buddhism	31	
-154		List_of_numbered_streets_in_Manhattan	29	
-154		MP3	11	
-154		Black_people	11	
-154		Classical_music	56	
-157		Estonian_language	24	
-157		Aspirated_consonant	31	
-157		Bird_migration	38	
-157		The_Times	35	
-157		Architecture	8	
-160		Buddhism	31	
-160		Estonian_language	24	
-160		2008_Sichuan_earthquake	35	
-160		Aspirated_consonant	17	
-160		MP3	11	
-163		Buddhism	31	
-163		MP3	11	
-163		Aspirated_consonant	5	
-163		Black_people	11	
-163		2008_Summer_Olympics_torch_relay	73	
-166		BBC_Television	30	
-166		Space_Race	60	
-166		University_of_Kansas	15	
-166		MP3	11	
-166		Materialism	6	
-169		Bern	49	
-169		MP3	11	
-169		Materialism	6	
-169		Buddhism	31	
-169		Alexander_Graham_Bell	0	
-172		Buddhism	31	
-172		Black_people	11	
-172		Aspirated_consonant	31	
-172		Classical_music	56	
-172		2008_Summer_Olympics_torch_relay	73	
-175		Immunology	8	
-175		University_of_Kansas	15	
-175		BBC_Television	30	
-175		Wood	46	
-175		Materialism	6	
-178		Estonian_language	24	
-178		Materialism	6	
-178		University_of_Kansas	15	
-178		Aspirated_consonant	31	
-178		The_Times	35	
-181		MP3	11	
-181		Buddhism	31	
-181		Alexander_Graham_Bell	0	
-181		The_Times	35	
-181		Aspirated_consonant	5	
-184		Buddhism	31	
-184		MP3	11	
-184		Classical_music	56	
-184		Black_people	11	
-184		University_of_Kansas	15	
-187		BBC_Television	30	
-187		Materialism	6	
-187		Wood	46	
-187		The_Times	35	
-187		University_of_Kansas	15	
-190		Buddhism	31	
-190		Aspirated_consonant	5	
-190		Classical_music	56	
-190		MP3	11	
-190		Royal_Institute_of_British_Architects	14	
-193		Near_East	18	
-193		Hunter-gatherer	2	
-193		National_Archives_and_Records_Administration	27	
-193		Bern	49	
-193		2008_Sichuan_earthquake	35	
-196		University_of_Kansas	15	
-196		2008_Summer_Olympics_torch_relay	73	
-196		Estonian_language	24	
-196		MP3	11	
-196		Buddhism	31	
-199		BBC_Television	30	
-199		Immunology	8	
-199		Wood	46	
-199		Materialism	6	
-199		Estonian_language	24	
-202		Estonian_language	24	
-202		Aspirated_consonant	31	
-202		MP3	11	
-202		Immunology	8	
-202		The_Times	35	
-205		Alexander_Graham_Bell	0	
-205		MP3	11	
-205		2008_Sichuan_earthquake	35	
-205		University_of_Kansas	15	
-205		Bern	49	
-208		MP3	11	
-208		BBC_Television	30	
-208		University_of_Kansas	15	
-208		Alexander_Graham_Bell	0	
-208		Daylight_saving_time	13	
-211		Architecture	8	
-211		The_Times	35	
-211		BBC_Television	30	
-211		Dog	69	
-211		MP3	11	
-214		MP3	11	
-214		List_of_numbered_streets_in_Manhattan	29	
-214		Dog	69	
-214		Southampton	76	
-214		Plymouth	75	
-217		BBC_Television	30	
-217		Alexander_Graham_Bell	0	
-217		The_Times	35	
-217		MP3	11	
-217		Architecture	8	
-220		Architecture	8	
-220		Hunter-gatherer	2	
-220		BBC_Television	30	
-220		Bird_migration	38	
-220		The_Times	35	
-223		BBC_Television	30	
-223		Near_East	18	
-223		Architecture	8	
-223		Alexander_Graham_Bell	0	
-223		Institute_of_technology	34	
-226		Buddhism	31	
-226		University_of_Kansas	15	
-226		2008_Summer_Olympics_torch_relay	73	
-226		Classical_music	56	
-226		MP3	11	
-229		Prime_minister	18	
-229		MP3	11	
-229		Buddhism	31	
-229		National_Archives_and_Records_Administration	18	
-229		Dog	69	
-232		Aspirated_consonant	5	
-232		Buddhism	31	
-232		MP3	11	
-232		Materialism	6	
-232		Black_people	11	
-235		University_of_Kansas	15	
-235		List_of_numbered_streets_in_Manhattan	22	
-235		Materialism	6	
-235		Sony_Music_Entertainment	28	
-235		The_Times	35	
-238		University_of_Kansas	15	
-238		BBC_Television	30	
-238		Near_East	18	
-238		MP3	11	
-238		2008_Summer_Olympics_torch_relay	73	
-241		Materialism	6	
-241		2008_Summer_Olympics_torch_relay	73	
-241		University_of_Kansas	15	
-241		Catalan_language	46	
-241		Near_East	18	
-244		University_of_Kansas	15	
-244		Wayback_Machine	9	
-244		BBC_Television	30	
-244		Materialism	6	
-244		Alexander_Graham_Bell	0	
-247		Buddhism	31	
-247		MP3	11	
-247		Architecture	8	
-247		Aspirated_consonant	5	
-247		Alexander_Graham_Bell	0	
-250		BBC_Television	30	
-250		Alexander_Graham_Bell	0	
-250		University_of_Kansas	15	
-250		Estonian_language	24	
-250		2008_Summer_Olympics_torch_relay	73	
-253		MP3	11	
-253		BBC_Television	30	
-253		Buddhism	31	
-253		University_of_Kansas	15	
-253		Alexander_Graham_Bell	0	
-256		Buddhism	31	
-256		MP3	11	
-256		Hydrogen	19	
-256		Classical_music	56	
-256		Ministry_of_Defence_(United_Kingdom)	9	
-259		University_of_Kansas	15	
-259		Aspirated_consonant	17	
-259		Estonian_language	24	
-259		Materialism	6	
-259		Near_East	18	
-262		Buddhism	31	
-262		MP3	11	
-262		List_of_numbered_streets_in_Manhattan	29	
-262		Dog	69	
-262		Near_East	18	
-265		BBC_Television	30	
-265		Estonian_language	24	
-265		Wood	46	
-265		University_of_Kansas	15	
-265		The_Times	35	
-268		University_of_Kansas	15	
-268		Materialism	6	
-268		Hunter-gatherer	10	
-268		Near_East	18	
-268		Daylight_saving_time	13	
-271		MP3	11	
-271		List_of_numbered_streets_in_Manhattan	29	
-271		Aspirated_consonant	5	
-271		2008_Summer_Olympics_torch_relay	73	
-271		Buddhism	31	
-274		University_of_Kansas	15	
-274		Daylight_saving_time	13	
-274		MP3	11	
-274		Alexander_Graham_Bell	0	
-274		BBC_Television	30	
-277		Architecture	8	
-277		Dog	69	
-277		Near_East	18	
-277		MP3	11	
-277		Hunter-gatherer	2	
-280		University_of_Kansas	15	
-280		MP3	11	
-280		BBC_Television	30	
-280		Alexander_Graham_Bell	0	
-280		Materialism	6	
-283		Buddhism	31	
-283		Classical_music	56	
-283		Aspirated_consonant	31	
-283		Guinea-Bissau	38	
-283		Materialism	6	
-286		Josip_Broz_Tito	32	
-286		Architecture	8	
-286		MP3	11	
-286		Near_East	18	
-286		BBC_Television	30	
-289		BBC_Television	30	
-289		University_of_Kansas	15	
-289		Alexander_Graham_Bell	0	
-289		Wood	46	
-289		The_Times	35	
-292		Materialism	6	
-292		Southampton	37	
-292		University_of_Kansas	15	
-292		Daylight_saving_time	13	
-292		Estonian_language	24	
-295		University_of_Kansas	15	
-295		MP3	11	
-295		Estonian_language	24	
-295		Alexander_Graham_Bell	0	
-295		Materialism	6	
-298		Hunter-gatherer	2	
-298		Phonology	13	
-298		Architecture	8	
-298		The_Times	35	
-298		Dog	69	
+question_id	question_rank	document_title	paragraph_index
+1	1	Buddhism	31
+1	2	MP3	11
+1	3	University_of_Kansas	15
+1	4	Black_people	11
+1	5	American_Idol	26
+4	1	Materialism	6
+4	2	Estonian_language	24
+4	3	Near_East	18
+4	4	Daylight_saving_time	13
+4	5	University_of_Kansas	15
+7	1	University_of_Kansas	15
+7	2	Near_East	18
+7	3	Daylight_saving_time	13
+7	4	Marshall_Islands	42
+7	5	Hunter-gatherer	10
+10	1	BBC_Television	30
+10	2	Near_East	18
+10	3	Wood	46
+10	4	The_Times	35
+10	5	Architecture	8
+13	1	Estonian_language	24
+13	2	Wood	46
+13	3	Daylight_saving_time	13
+13	4	Aspirated_consonant	17
+13	5	Materialism	6
+16	1	Materialism	6
+16	2	University_of_Kansas	15
+16	3	Szlachta	3
+16	4	Aspirated_consonant	31
+16	5	Hunter-gatherer	10
+19	1	BBC_Television	30
+19	2	University_of_Kansas	15
+19	3	Wood	46
+19	4	MP3	11
+19	5	Alexander_Graham_Bell	0
+22	1	Brain	13
+22	2	BBC_Television	30
+22	3	Estonian_language	24
+22	4	Wood	46
+22	5	Architecture	8
+25	1	BBC_Television	30
+25	2	University_of_Kansas	15
+25	3	Estonian_language	24
+25	4	MP3	11
+25	5	2008_Summer_Olympics_torch_relay	73
+28	1	University_of_Kansas	15
+28	2	Materialism	6
+28	3	MP3	11
+28	4	Wayback_Machine	9
+28	5	2008_Summer_Olympics_torch_relay	73
+31	1	MP3	11
+31	2	University_of_Kansas	15
+31	3	2008_Summer_Olympics_torch_relay	73
+31	4	Black_people	11
+31	5	Near_East	18
+34	1	Materialism	6
+34	2	National_Archives_and_Records_Administration	27
+34	3	Estonian_language	24
+34	4	Bird_migration	38
+34	5	New_York_City	134
+37	1	MP3	11
+37	2	University_of_Kansas	15
+37	3	Black_people	11
+37	4	Alexander_Graham_Bell	0
+37	5	BBC_Television	30
+40	1	Wood	46
+40	2	University_of_Kansas	15
+40	3	Materialism	6
+40	4	BBC_Television	30
+40	5	Near_East	18
+43	1	University_of_Kansas	15
+43	2	Near_East	18
+43	3	Materialism	6
+43	4	Architecture	8
+43	5	The_Times	35
+46	1	MP3	11
+46	2	University_of_Kansas	15
+46	3	Buddhism	31
+46	4	Black_people	11
+46	5	Classical_music	56
+49	1	Near_East	18
+49	2	University_of_Kansas	15
+49	3	Materialism	6
+49	4	2008_Sichuan_earthquake	35
+49	5	Daylight_saving_time	13
+52	1	Hunter-gatherer	2
+52	2	Materialism	6
+52	3	BeiDou_Navigation_Satellite_System	17
+52	4	Aspirated_consonant	5
+52	5	Immunology	8
+55	1	MP3	11
+55	2	University_of_Kansas	15
+55	3	Classical_music	56
+55	4	2008_Summer_Olympics_torch_relay	73
+55	5	Black_people	11
+58	1	BBC_Television	30
+58	2	Materialism	6
+58	3	Wood	46
+58	4	Estonian_language	24
+58	5	University_of_Kansas	15
+61	1	University_of_Kansas	15
+61	2	BBC_Television	30
+61	3	2008_Summer_Olympics_torch_relay	73
+61	4	Materialism	6
+61	5	Sony_Music_Entertainment	22
+64	1	Alexander_Graham_Bell	0
+64	2	University_of_Kansas	15
+64	3	MP3	11
+64	4	Russian_Soviet_Federative_Socialist_Republic	20
+64	5	BBC_Television	30
+67	1	University_of_Kansas	15
+67	2	Aspirated_consonant	5
+67	3	MP3	11
+67	4	Materialism	6
+67	5	2008_Summer_Olympics_torch_relay	73
+70	1	Daylight_saving_time	13
+70	2	Estonian_language	24
+70	3	University_of_Kansas	15
+70	4	MP3	11
+70	5	2008_Summer_Olympics_torch_relay	73
+73	1	University_of_Kansas	15
+73	2	MP3	11
+73	3	BBC_Television	30
+73	4	2008_Summer_Olympics_torch_relay	73
+73	5	Materialism	6
+76	1	Materialism	6
+76	2	Aspirated_consonant	31
+76	3	Estonian_language	24
+76	4	Buddhism	31
+76	5	BBC_Television	30
+79	1	List_of_numbered_streets_in_Manhattan	29
+79	2	Buddhism	31
+79	3	University_of_Kansas	15
+79	4	MP3	11
+79	5	Estonian_language	24
+82	1	Canadian_Armed_Forces	41
+82	2	Near_East	18
+82	3	Architecture	8
+82	4	Hunter-gatherer	2
+82	5	Wood	46
+85	1	Architecture	8
+85	2	BBC_Television	30
+85	3	Dog	69
+85	4	Hunter-gatherer	2
+85	5	Near_East	18
+88	1	Near_East	18
+88	2	Materialism	6
+88	3	Somalis	46
+88	4	University_of_Kansas	15
+88	5	Architecture	8
+91	1	Near_East	18
+91	2	University_of_Kansas	15
+91	3	Daylight_saving_time	13
+91	4	Wood	46
+91	5	Alexander_Graham_Bell	0
+94	1	Estonian_language	24
+94	2	University_of_Kansas	15
+94	3	Materialism	6
+94	4	Near_East	18
+94	5	Bern	10
+97	1	Wood	46
+97	2	University_of_Kansas	15
+97	3	2008_Summer_Olympics_torch_relay	73
+97	4	Estonian_language	24
+97	5	Materialism	6
+100	1	University_of_Kansas	15
+100	2	MP3	11
+100	3	2008_Summer_Olympics_torch_relay	73
+100	4	Materialism	6
+100	5	Alexander_Graham_Bell	0
+103	1	Classical_music	56
+103	2	Buddhism	31
+103	3	Aspirated_consonant	31
+103	4	National_Archives_and_Records_Administration	27
+103	5	University_of_Kansas	15
+106	1	Materialism	6
+106	2	Phonology	13
+106	3	Immunology	8
+106	4	Wood	46
+106	5	Architecture	8
+109	1	Wood	46
+109	2	University_of_Kansas	15
+109	3	Near_East	18
+109	4	2008_Summer_Olympics_torch_relay	73
+109	5	Daylight_saving_time	13
+112	1	Wood	46
+112	2	Estonian_language	24
+112	3	Space_Race	60
+112	4	Immunology	8
+112	5	Materialism	6
+115	1	University_of_Kansas	15
+115	2	Classical_music	56
+115	3	National_Archives_and_Records_Administration	27
+115	4	Hunter-gatherer	10
+115	5	Aspirated_consonant	5
+118	1	Brain	13
+118	2	BBC_Television	30
+118	3	Estonian_language	24
+118	4	Aspirated_consonant	17
+118	5	Architecture	8
+121	1	University_of_Kansas	15
+121	2	Wood	46
+121	3	Brain	13
+121	4	Daylight_saving_time	13
+121	5	BBC_Television	30
+124	1	Estonian_language	24
+124	2	Aspirated_consonant	17
+124	3	University_of_Kansas	15
+124	4	Wood	46
+124	5	Szlachta	3
+127	1	BBC_Television	30
+127	2	The_Times	35
+127	3	2008_Sichuan_earthquake	35
+127	4	University_of_Kansas	15
+127	5	Estonian_language	24
+130	1	Materialism	6
+130	2	BBC_Television	30
+130	3	University_of_Kansas	15
+130	4	Wood	46
+130	5	2008_Sichuan_earthquake	35
+133	1	University_of_Kansas	15
+133	2	MP3	11
+133	3	Alexander_Graham_Bell	0
+133	4	Hunter-gatherer	10
+133	5	Royal_Institute_of_British_Architects	14
+136	1	Architecture	8
+136	2	Near_East	18
+136	3	Hunter-gatherer	2
+136	4	Materialism	6
+136	5	Wood	46
+139	1	University_of_Kansas	15
+139	2	MP3	11
+139	3	Materialism	6
+139	4	Alexander_Graham_Bell	0
+139	5	2008_Summer_Olympics_torch_relay	73
+142	1	Dog	69
+142	2	Daylight_saving_time	13
+142	3	Saint_Helena	78
+142	4	Institute_of_technology	34
+142	5	Hunter-gatherer	2
+145	1	2008_Sichuan_earthquake	35
+145	2	Near_East	18
+145	3	BBC_Television	30
+145	4	Wood	46
+145	5	Alexander_Graham_Bell	0
+148	1	MP3	11
+148	2	University_of_Kansas	15
+148	3	Black_people	11
+148	4	2008_Summer_Olympics_torch_relay	73
+148	5	Near_East	18
+151	1	MP3	11
+151	2	Alexander_Graham_Bell	0
+151	3	Near_East	18
+151	4	BBC_Television	30
+151	5	University_of_Kansas	15
+154	1	Buddhism	31
+154	2	List_of_numbered_streets_in_Manhattan	29
+154	3	MP3	11
+154	4	Black_people	11
+154	5	Classical_music	56
+157	1	Estonian_language	24
+157	2	Aspirated_consonant	31
+157	3	Bird_migration	38
+157	4	The_Times	35
+157	5	Architecture	8
+160	1	Buddhism	31
+160	2	Estonian_language	24
+160	3	2008_Sichuan_earthquake	35
+160	4	Aspirated_consonant	17
+160	5	MP3	11
+163	1	Buddhism	31
+163	2	MP3	11
+163	3	Aspirated_consonant	5
+163	4	Black_people	11
+163	5	2008_Summer_Olympics_torch_relay	73
+166	1	BBC_Television	30
+166	2	Space_Race	60
+166	3	University_of_Kansas	15
+166	4	MP3	11
+166	5	Materialism	6
+169	1	Bern	49
+169	2	MP3	11
+169	3	Materialism	6
+169	4	Buddhism	31
+169	5	Alexander_Graham_Bell	0
+172	1	Buddhism	31
+172	2	Black_people	11
+172	3	Aspirated_consonant	31
+172	4	Classical_music	56
+172	5	2008_Summer_Olympics_torch_relay	73
+175	1	Immunology	8
+175	2	University_of_Kansas	15
+175	3	BBC_Television	30
+175	4	Wood	46
+175	5	Materialism	6
+178	1	Estonian_language	24
+178	2	Materialism	6
+178	3	University_of_Kansas	15
+178	4	Aspirated_consonant	31
+178	5	The_Times	35
+181	1	MP3	11
+181	2	Buddhism	31
+181	3	Alexander_Graham_Bell	0
+181	4	The_Times	35
+181	5	Aspirated_consonant	5
+184	1	Buddhism	31
+184	2	MP3	11
+184	3	Classical_music	56
+184	4	Black_people	11
+184	5	University_of_Kansas	15
+187	1	BBC_Television	30
+187	2	Materialism	6
+187	3	Wood	46
+187	4	The_Times	35
+187	5	University_of_Kansas	15
+190	1	Buddhism	31
+190	2	Aspirated_consonant	5
+190	3	Classical_music	56
+190	4	MP3	11
+190	5	Royal_Institute_of_British_Architects	14
+193	1	Near_East	18
+193	2	Hunter-gatherer	2
+193	3	National_Archives_and_Records_Administration	27
+193	4	Bern	49
+193	5	2008_Sichuan_earthquake	35
+196	1	University_of_Kansas	15
+196	2	2008_Summer_Olympics_torch_relay	73
+196	3	Estonian_language	24
+196	4	MP3	11
+196	5	Buddhism	31
+199	1	BBC_Television	30
+199	2	Immunology	8
+199	3	Wood	46
+199	4	Materialism	6
+199	5	Estonian_language	24
+202	1	Estonian_language	24
+202	2	Aspirated_consonant	31
+202	3	MP3	11
+202	4	Immunology	8
+202	5	The_Times	35
+205	1	Alexander_Graham_Bell	0
+205	2	MP3	11
+205	3	2008_Sichuan_earthquake	35
+205	4	University_of_Kansas	15
+205	5	Bern	49
+208	1	MP3	11
+208	2	BBC_Television	30
+208	3	University_of_Kansas	15
+208	4	Alexander_Graham_Bell	0
+208	5	Daylight_saving_time	13
+211	1	Architecture	8
+211	2	The_Times	35
+211	3	BBC_Television	30
+211	4	Dog	69
+211	5	MP3	11
+214	1	MP3	11
+214	2	List_of_numbered_streets_in_Manhattan	29
+214	3	Dog	69
+214	4	Southampton	76
+214	5	Plymouth	75
+217	1	BBC_Television	30
+217	2	Alexander_Graham_Bell	0
+217	3	The_Times	35
+217	4	MP3	11
+217	5	Architecture	8
+220	1	Architecture	8
+220	2	Hunter-gatherer	2
+220	3	BBC_Television	30
+220	4	Bird_migration	38
+220	5	The_Times	35
+223	1	BBC_Television	30
+223	2	Near_East	18
+223	3	Architecture	8
+223	4	Alexander_Graham_Bell	0
+223	5	Institute_of_technology	34
+226	1	Buddhism	31
+226	2	University_of_Kansas	15
+226	3	2008_Summer_Olympics_torch_relay	73
+226	4	Classical_music	56
+226	5	MP3	11
+229	1	Prime_minister	18
+229	2	MP3	11
+229	3	Buddhism	31
+229	4	National_Archives_and_Records_Administration	18
+229	5	Dog	69
+232	1	Aspirated_consonant	5
+232	2	Buddhism	31
+232	3	MP3	11
+232	4	Materialism	6
+232	5	Black_people	11
+235	1	University_of_Kansas	15
+235	2	List_of_numbered_streets_in_Manhattan	22
+235	3	Materialism	6
+235	4	Sony_Music_Entertainment	28
+235	5	The_Times	35
+238	1	University_of_Kansas	15
+238	2	BBC_Television	30
+238	3	Near_East	18
+238	4	MP3	11
+238	5	2008_Summer_Olympics_torch_relay	73
+241	1	Materialism	6
+241	2	2008_Summer_Olympics_torch_relay	73
+241	3	University_of_Kansas	15
+241	4	Catalan_language	46
+241	5	Near_East	18
+244	1	University_of_Kansas	15
+244	2	Wayback_Machine	9
+244	3	BBC_Television	30
+244	4	Materialism	6
+244	5	Alexander_Graham_Bell	0
+247	1	Buddhism	31
+247	2	MP3	11
+247	3	Architecture	8
+247	4	Aspirated_consonant	5
+247	5	Alexander_Graham_Bell	0
+250	1	BBC_Television	30
+250	2	Alexander_Graham_Bell	0
+250	3	University_of_Kansas	15
+250	4	Estonian_language	24
+250	5	2008_Summer_Olympics_torch_relay	73
+253	1	MP3	11
+253	2	BBC_Television	30
+253	3	Buddhism	31
+253	4	University_of_Kansas	15
+253	5	Alexander_Graham_Bell	0
+256	1	Buddhism	31
+256	2	MP3	11
+256	3	Hydrogen	19
+256	4	Classical_music	56
+256	5	Ministry_of_Defence_(United_Kingdom)	9
+259	1	University_of_Kansas	15
+259	2	Aspirated_consonant	17
+259	3	Estonian_language	24
+259	4	Materialism	6
+259	5	Near_East	18
+262	1	Buddhism	31
+262	2	MP3	11
+262	3	List_of_numbered_streets_in_Manhattan	29
+262	4	Dog	69
+262	5	Near_East	18
+265	1	BBC_Television	30
+265	2	Estonian_language	24
+265	3	Wood	46
+265	4	University_of_Kansas	15
+265	5	The_Times	35
+268	1	University_of_Kansas	15
+268	2	Materialism	6
+268	3	Hunter-gatherer	10
+268	4	Near_East	18
+268	5	Daylight_saving_time	13
+271	1	MP3	11
+271	2	List_of_numbered_streets_in_Manhattan	29
+271	3	Aspirated_consonant	5
+271	4	2008_Summer_Olympics_torch_relay	73
+271	5	Buddhism	31
+274	1	University_of_Kansas	15
+274	2	Daylight_saving_time	13
+274	3	MP3	11
+274	4	Alexander_Graham_Bell	0
+274	5	BBC_Television	30
+277	1	Architecture	8
+277	2	Dog	69
+277	3	Near_East	18
+277	4	MP3	11
+277	5	Hunter-gatherer	2
+280	1	University_of_Kansas	15
+280	2	MP3	11
+280	3	BBC_Television	30
+280	4	Alexander_Graham_Bell	0
+280	5	Materialism	6
+283	1	Buddhism	31
+283	2	Classical_music	56
+283	3	Aspirated_consonant	31
+283	4	Guinea-Bissau	38
+283	5	Materialism	6
+286	1	Josip_Broz_Tito	32
+286	2	Architecture	8
+286	3	MP3	11
+286	4	Near_East	18
+286	5	BBC_Television	30
+289	1	BBC_Television	30
+289	2	University_of_Kansas	15
+289	3	Alexander_Graham_Bell	0
+289	4	Wood	46
+289	5	The_Times	35
+292	1	Materialism	6
+292	2	Southampton	37
+292	3	University_of_Kansas	15
+292	4	Daylight_saving_time	13
+292	5	Estonian_language	24
+295	1	University_of_Kansas	15
+295	2	MP3	11
+295	3	Estonian_language	24
+295	4	Alexander_Graham_Bell	0
+295	5	Materialism	6
+298	1	Hunter-gatherer	2
+298	2	Phonology	13
+298	3	Architecture	8
+298	4	The_Times	35
+298	5	Dog	69
